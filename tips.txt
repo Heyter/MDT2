@@ -1,0 +1,1 @@
+component8.erfahrung = 5; // взлом 5 звезд
